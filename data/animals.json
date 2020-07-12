@@ -153,6 +153,15 @@
         ""
       ],
       "id": "15"
+    },
+    {
+      "name": "Romy",
+      "species": "Lion",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "16"
     }
   ]
 }
